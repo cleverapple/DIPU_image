@@ -1,0 +1,11 @@
+﻿  ImageProcess.cpp
+c:\opencv3.1\build\include\opencv2\core\mat.hpp(1965): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\opencv3.1\build\include\opencv2\core\persistence.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\opencv3.1\build\include\opencv2\core\utility.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\opencv3.1\build\include\opencv2\core\utility.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\users\daeun\documents\visual studio 2015\projects\dipu\dipu\imageprocess.cpp(106): warning C4267: '+=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\daeun\documents\visual studio 2015\projects\dipu\dipu\imageprocess.cpp(150): warning C4267: '+=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\daeun\documents\visual studio 2015\projects\dipu\dipu\imageprocess.cpp(206): warning C4267: '+=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\daeun\documents\visual studio 2015\projects\dipu\dipu\imageprocess.cpp(285): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  DIPU.vcxproj -> C:\Users\Daeun\documents\visual studio 2015\Projects\DIPU\x64\Debug\DIPU.exe
+  DIPU.vcxproj -> C:\Users\Daeun\documents\visual studio 2015\Projects\DIPU\x64\Debug\DIPU.pdb (Full PDB)
